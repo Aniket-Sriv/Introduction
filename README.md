@@ -1,9 +1,8 @@
 # Introduction
 
 ### Hello Everyone!
-
-### I am Aniket Srivastava.
-
-### Just got into the world of Github.
-
-### Wish me luck!
+<p>I am Aniket Srivastava.
+<br>
+Just got into the world of Github.
+<br>
+Wish me luck!<p>
